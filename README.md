@@ -114,6 +114,7 @@ Montblanc's workflow can be summarized in the following steps:
 ## Demonstration
 
 Here is an example of when I asked Montblanc to query my database with the following question: "Give me all of the batch ids whose status is SUCCESSFUL."
+
 ![image](https://github.com/yokurang/montblanc/assets/114996150/11c36d19-da6d-4afd-a9b2-12b1f3489b8d)
 
 ---
